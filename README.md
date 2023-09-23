@@ -1,5 +1,0 @@
-## DEPENDENCIAS
-
-```javascript
-añlkjd
-```
